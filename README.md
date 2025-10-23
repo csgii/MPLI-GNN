@@ -20,10 +20,7 @@ Experimental evaluations on real-world datasets show that MPLI-GNN outperforms s
 ---
 
 ## Model Overview
-
-<p align="center">
-  <img src="assets/framework.png" width="600" alt="MPLI-GNN Framework">
-</p>
+![The main workflow of MPLI-GNN](https://github.com/csgii/MPLI-GNN/blob/main/newxxy%20(1).pdf)
 
 **MPLI-GNN** integrates multi-level interest modeling and denoising mechanisms to enhance the accuracy and robustness of session-based recommendation.
 
